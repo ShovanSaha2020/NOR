@@ -1,0 +1,10 @@
+# NOR
+
+I have designed an CMOS NOR using Cadence Virtuoso.
+
+I have created:
+
+1. A schmatic layout
+2. A symbol for inverter
+3. A testbench schematic
+4. A physical layout
